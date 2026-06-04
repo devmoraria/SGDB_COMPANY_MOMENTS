@@ -1,0 +1,154 @@
+[{
+  "_id": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e3e"
+  },
+  "address": "Wayne Enterprises, 1007 Mountain Drive, Gotham City, 015-7094",
+  "country": "USA",
+  "name": "Wayne Offices",
+  "phone": "+1 201-555-0123",
+  "supplies": [
+    {
+      "product": "Coffee Makers",
+      "quantity": 7,
+      "unitPrice": 283.75
+    },
+    {
+      "product": "A4 Paper Kit",
+      "quantity": 50,
+      "unitPrice": 752.85
+    },
+    {
+      "product": "Planners",
+      "quantity": 20,
+      "unitPrice": 500
+    },
+    {
+      "product": "Post-its",
+      "quantity": 50,
+      "unitPrice": 1000
+    },
+    {
+      "product": "Computers",
+      "quantity": 10,
+      "unitPrice": 5000
+    },
+    {
+      "product": "Headsets",
+      "quantity": 15,
+      "unitPrice": 150
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "5992103f9b3e0b3b3c1e3e3f"
+  },
+  "address": "1725 Remember Avenue, North, GT 001-18503,",
+  "country": "IRE",
+  "name": "Winterfell Offices",
+  "phone": "+1 570-555-0123",
+  "supplies": [
+    {
+      "product": "Impressoras",
+      "quantity": 3,
+      "unitPrice": 500
+    },
+    {
+      "product": "Papel",
+      "quantity": 50,
+      "unitPrice": 752.85
+    },
+    {
+      "product": "Planners",
+      "quantity": 20,
+      "unitPrice": 500
+    },
+    {
+      "product": "Post-its",
+      "quantity": 50,
+      "unitPrice": 1000
+    },
+    {
+      "product": "Livros Didáticos",
+      "quantity": 10,
+      "unitPrice": 5000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "5992103f9b3e0b3b3c1e3e40"
+  },
+  "address": "Stark Tower, 200 Park Avenue, New York, 10007",
+  "country": "ENG",
+  "name": "Stark Industries",
+  "phone": "+1 212-555-0123",
+  "supplies": [
+    {
+      "product": "Iron Gloves (unit)",
+      "quantity": 143,
+      "unitPrice": 50
+    },
+    {
+      "product": "A4 Paper",
+      "quantity": 50,
+      "unitPrice": 752.85
+    },
+    {
+      "product": "Computers",
+      "quantity": 19,
+      "unitPrice": 5000
+    },
+    {
+      "product": "Post-its",
+      "quantity": 50,
+      "unitPrice": 1000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e41"
+  },
+  "address": "Tamal Dulce, 1007 Mountain Drive, Quito, 015-7094",
+  "country": "EQU",
+  "name": "Umbrella Corp",
+  "phone": "+1 201-555-0123",
+  "supplies": [
+    {
+      "product": "Pens",
+      "quantity": 3,
+      "unitPrice": 500
+    },
+    {
+      "product": "Sulphite Sheets",
+      "quantity": 500000,
+      "unitPrice": 752.85
+    },
+    {
+      "product": "Planners",
+      "quantity": 20,
+      "unitPrice": 500
+    },
+    {
+      "product": "Post-its",
+      "quantity": 50,
+      "unitPrice": 1000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6491a999f9b3e0b3b3c1f001"
+  },
+  "name": "Momento Brasil",
+  "city": "São Paulo",
+  "country": "BRA",
+  "supplies": [
+    {
+      "product": "Notebooks",
+      "quantity": 10,
+      "unitPrice": 4000
+    }
+  ]
+}]

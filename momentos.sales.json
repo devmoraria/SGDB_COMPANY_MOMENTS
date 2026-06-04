@@ -1,0 +1,165 @@
+[{
+  "_id": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e46"
+  },
+  "product": "Superman Uniform",
+  "quantity": 1,
+  "saleDate": "2023-06-19",
+  "sellerId": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e55"
+  },
+  "unitPrice": 300.13
+},
+{
+  "_id": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e47"
+  },
+  "product": "Superman Uniform",
+  "quantity": 1,
+  "saleDate": "2023-07-10",
+  "sellerId": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e54"
+  },
+  "unitPrice": 300.13
+},
+{
+  "_id": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e48"
+  },
+  "product": "Fake Batarang",
+  "quantity": 2,
+  "saleDate": "2023-07-29",
+  "sellerId": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e53"
+  },
+  "unitPrice": 239.29
+},
+{
+  "_id": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e49"
+  },
+  "product": "Web-Shooter",
+  "quantity": 3,
+  "saleDate": "2023-07-13",
+  "unitPrice": 237.19
+},
+{
+  "_id": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e4a"
+  },
+  "product": "Web-Shooter",
+  "quantity": 3,
+  "saleDate": "2023-06-05",
+  "sellerId": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e52"
+  },
+  "unitPrice": 237.19
+},
+{
+  "_id": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e4b"
+  },
+  "product": "Ant-Man Helmet",
+  "quantity": 4,
+  "saleDate": "2023-07-19",
+  "sellerId": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e58"
+  },
+  "unitPrice": 289.29
+},
+{
+  "_id": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e4c"
+  },
+  "product": "Ant-Man Helmet",
+  "quantity": 4,
+  "saleDate": "2023-06-21",
+  "sellerId": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e57"
+  },
+  "unitPrice": 289.29
+},
+{
+  "_id": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e4d"
+  },
+  "product": "Ultimate Nullifier",
+  "quantity": 5,
+  "saleDate": "2023-06-13",
+  "sellerId": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e56"
+  },
+  "unitPrice": 750.19
+},
+{
+  "_id": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e4e"
+  },
+  "product": "Ultimate Nullifier",
+  "quantity": 5,
+  "saleDate": "2023-07-18",
+  "sellerId": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e55"
+  },
+  "unitPrice": 750.19
+},
+{
+  "_id": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e4f"
+  },
+  "product": "Lasso of Truth",
+  "quantity": 6,
+  "saleDate": "2023-06-14",
+  "sellerId": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e58"
+  },
+  "unitPrice": 325.13
+},
+{
+  "_id": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e50"
+  },
+  "product": "Lasso of Truth",
+  "quantity": 6,
+  "saleDate": "2023-06-10",
+  "sellerId": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e57"
+  },
+  "unitPrice": 325.13
+},
+{
+  "_id": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e51"
+  },
+  "product": "Lightsaber (Mace Windu)",
+  "quantity": 8,
+  "saleDate": "2023-06-15",
+  "sellerId": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e56"
+  },
+  "unitPrice": 990.29
+},
+{
+  "_id": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e52"
+  },
+  "product": "Bolivar Trask Sentinels",
+  "quantity": 9,
+  "saleDate": "2023-06-20",
+  "sellerId": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e57"
+  },
+  "unitPrice": 150.13
+},
+{
+  "_id": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e53"
+  },
+  "product": "Unstable Molecules Uniform",
+  "quantity": 10,
+  "saleDate": "2023-06-29",
+  "sellerId": {
+    "$oid": "5f8b3f3f9b3e0b3b3c1e3e56"
+  },
+  "unitPrice": 158.29
+}]
